@@ -1,1 +1,2 @@
 # https-github.com-ixianren-Exercises_for_game_development_5
+工程文件和可执行文件都在master branch里，其中可执行文件在built文件夹中
